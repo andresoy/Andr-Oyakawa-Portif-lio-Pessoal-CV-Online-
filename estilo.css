@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.barraSup {
+    background-color: #0c4b31;
+    color: white;
+    padding: 30px 20px;
+    text-align: center;
+}
+
+.name {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.botaoNome {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.botaoLink {
+    display: inline-block;
+    padding: 15px 30px;
+    margin: 5px;
+    font-size: 20px;
+    color: white;
+    background-color: #25b19a;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.botaoLink:hover {
+    background-color: #00ffd5;
+}

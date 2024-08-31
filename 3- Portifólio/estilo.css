@@ -1,0 +1,83 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+.projetos {
+    margin-top: 20px;
+}
+
+.projeto {
+    margin-bottom: 20px;
+}
+
+.projeto h2 {
+    border-bottom: 2px solid #000;
+    padding-bottom: 5px;
+}
+
+.projeto p {
+    margin: 5px 0;
+}
+
+#japao{
+    color: rgb(153, 14, 14);
+}
+
+#brasil{
+    color: rgb(15, 112, 15);
+}
+
+.barraSup {
+    background-color: #0c4b31;
+    color: white;
+    padding: 30px 20px;
+    text-align: center;
+}
+
+.name {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.botao {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.voltar{
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: #1c7768;
+}  
+
+.voltar:hover {
+    background-color: #2bbba3;
+}
